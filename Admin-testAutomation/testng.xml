@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite">
-    <test verbose="2" preserve-order="true" name="C:/Users/Zeinab/Desktop/Admin-testAutomation">
+    <test verbose="2" preserve-order="true" name="C:/Users/Islam/Desktop/Admin-testAutomation">
         <classes>
             <class name="tests.LoginTest">
                 <methods>
